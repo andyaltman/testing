@@ -76,3 +76,5 @@ Data capture is not overly aggressive (asks for the minimum information needed t
 Posts include a mixture of content - photos, videos and external links
 Content include a mixture of themes - personal (guests and guides), experiential (animals and landscapes), and sales (camps, amenities, and links to book/buy)
 Ad spend is employed intelligently
+
+Testing more maybe?!?!
